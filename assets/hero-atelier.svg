@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="680" viewBox="0 0 960 680" fill="none" role="img" aria-label="Дизайнерский диван с подушками в мастерской мебели"><defs><linearGradient id="seat" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#B6C5B5"/><stop offset="1" stop-color="#738A7B"/></linearGradient><linearGradient id="seat2" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#E5CCB2"/><stop offset="1" stop-color="#BC9079"/></linearGradient><linearGradient id="velvet" x1="0" y1="0" x2=".9" y2="1"><stop stop-color="#819484"/><stop offset="1" stop-color="#445C50"/></linearGradient><linearGradient id="tawny" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#DDA27D"/><stop offset="1" stop-color="#AD654C"/></linearGradient><filter id="sh" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="14"/></filter><pattern id="weave" width="9" height="9" patternUnits="userSpaceOnUse"><path d="M0 4.5h9M4.5 0v9" stroke="#F8F4EB" stroke-opacity=".13" stroke-width=".8"/></pattern><pattern id="grain" width="15" height="15" patternUnits="userSpaceOnUse"><path d="M1 3q5 1 8 5M8 13l5-2" stroke="#fff" stroke-opacity=".12" stroke-width=".8"/></pattern></defs>
+<ellipse cx="490" cy="602" rx="338" ry="43" fill="#7E796B" opacity=".20" filter="url(#sh)"/>
+<path d="M145 568c-53-119-11-307 118-398 98-70 252-98 387-38 117 53 164 145 155 263-11 130-110 199-239 208H265c-43 0-94-13-120-35Z" fill="#E8E1D5"/>
+<path d="M205 541c-15-120 23-267 143-350 87-61 210-76 320-29" stroke="#D0BDA5" stroke-width="2" stroke-dasharray="7 11" opacity=".65"/>
+<!-- floor -->
+<path d="M96 577H856" stroke="#D5CCBC" stroke-width="2"/>
+<!-- framed textile swatches -->
+<g transform="translate(659 90) rotate(7)"><rect width="146" height="172" rx="9" fill="#FEFCF8" stroke="#D7CCBA" stroke-width="2"/><rect x="12" y="12" width="122" height="148" rx="3" fill="#B9A38B"/><path d="M12 95q38-49 67-25t55-13v103H12Z" fill="#D8C9B3"/><path d="M27 30v112M52 30v112M76 30v112M100 30v112" stroke="#F4ECDD" stroke-opacity=".2" stroke-width="2"/></g>
+<!-- lamp -->
+<path d="M154 568V255" stroke="#9B8C7B" stroke-width="10" stroke-linecap="round"/>
+<path d="M100 259h108l-20-74h-65Z" fill="#D8BD98" stroke="#A48B70" stroke-width="2"/>
+<ellipse cx="154" cy="260" rx="55" ry="7" fill="#C4A17A"/>
+<path d="M111 571h91" stroke="#9B8C7B" stroke-width="11" stroke-linecap="round"/>
+<!-- plant right -->
+<path d="M798 584V361" stroke="#567965" stroke-width="6"/>
+<path d="M799 463q-85-5-77-81 67 0 77 81ZM800 443q78-22 76-83-62 12-76 83ZM798 522q-74-2-91-62 78-5 91 62ZM798 526q68 0 86-70-67-6-86 70Z" fill="#7D9983"/>
+<path d="M767 553h65l-10 50h-45Z" fill="#C47F5E"/><ellipse cx="800" cy="552" rx="33" ry="7" fill="#A96C53"/>
+<!-- sofa legs -->
+<path d="M285 522v61" stroke="#604A3C" stroke-width="19" stroke-linecap="round"/><path d="M679 522v61" stroke="#604A3C" stroke-width="19" stroke-linecap="round"/>
+<!-- backrest silhouette -->
+<rect x="215" y="284" width="536" height="216" rx="88" fill="url(#seat)" stroke="#536A5B" stroke-width="4"/>
+<path d="M252 387q215-40 459 0" stroke="#ECF1E8" stroke-opacity=".55" stroke-width="3"/>
+<!-- armrests -->
+<rect x="197" y="358" width="96" height="184" rx="44" fill="#809782" stroke="#58715F" stroke-width="4"/>
+<rect x="670" y="358" width="96" height="184" rx="44" fill="#78907D" stroke="#58715F" stroke-width="4"/>
+<path d="M219 378q23-16 52 5M693 378q25-16 53 5" stroke="#C7D6C7" stroke-width="3" opacity=".6"/>
+<!-- seat cushions -->
+<rect x="272" y="415" width="416" height="118" rx="32" fill="#9CAC9A" stroke="#516C5D" stroke-width="4"/>
+<path d="M479 422v101" stroke="#596F62" stroke-width="3" stroke-linecap="round"/>
+<path d="M288 469q91 19 177 0M492 469q90 19 179 0" stroke="#D4DECF" stroke-width="3" opacity=".45"/>
+<!-- pillows -->
+<g transform="translate(290 337) rotate(-9 58 58)"><rect width="117" height="116" rx="26" fill="#E9D2B6" stroke="#B98C73" stroke-width="3"/><path d="M23 20q36 42 72 5M18 83q36-12 79 16" stroke="#F9EDE0" stroke-width="3" opacity=".62"/><path d="M8 49q13 14 6 30" stroke="#B98C73" stroke-opacity=".55" stroke-width="2"/></g>
+<g transform="translate(556 355) rotate(11 57 52)"><rect width="110" height="102" rx="22" fill="#D9B29B" stroke="#B2846A" stroke-width="3"/><path d="M17 53q37-44 77 0M17 70q36 20 77-2" stroke="#F8EBDD" opacity=".5" stroke-width="3"/></g>
+<!-- tools -->
+<g transform="translate(60 475)"><path d="M25 94h100l-8-62H33Z" fill="#A9846A"/><path d="M38 32q5-30 39-30 35 0 39 30" stroke="#A9846A" stroke-width="8"/><rect x="71" y="-11" width="23" height="41" rx="7" fill="#536C5C"/><path d="M79-12v-19l-11-6" stroke="#536C5C" stroke-width="6" stroke-linecap="round"/></g>
+<!-- needle decoration -->
+<path d="M754 218c32 28 48 3 43-19-9-33-52-2-20 11" stroke="#C47F5E" stroke-width="3" stroke-dasharray="7 8"/>
+<circle cx="759" cy="218" r="7" fill="#C47F5E"/>
+<g fill="#C4815F"><path d="M418 145v30m-15-15h30" stroke="#C4815F" stroke-width="2"/><circle cx="617" cy="98" r="5"/><circle cx="825" cy="309" r="5"/></g>
+<g fill="#FFFDF9" font-family="sans-serif" font-weight="600" font-size="13"><rect x="553" y="225" width="130" height="40" rx="20" fill="#314B3C"/><text x="618" y="250" text-anchor="middle">МАСТЕРСТВО</text></g>
+</svg>
